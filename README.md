@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 - 🌱 I’m currently learning  [Reactjs](https://reactjs.org/).
+- 😎 I’m a front-end developer and ui/ux designer.
 - 📫 How to reach me:   [email](mailto:tolgabrandt@gmail.com)
 
 ## Portfolio   
