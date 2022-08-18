@@ -25,5 +25,6 @@
 
 ### 2022
 [React Authentication](https://react-auth2022.netlify.app)
-[Sozlukverse - Reactjs](https://fastidious-empanada-13d3df.netlify.app)
+
+[Sozlukverse - React](https://fastidious-empanada-13d3df.netlify.app)
 
