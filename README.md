@@ -6,11 +6,6 @@
 
 # Portfolio
 
-### In progress
-[React Authentication](https://react-auth2022.netlify.app)
-
-[Sozlukverse - React](https://fastidious-empanada-13d3df.netlify.app)
-
 ### 2021
 [Sonkod - Bir Web Ajansı](https://sonkod-2019.netlify.app)
  
