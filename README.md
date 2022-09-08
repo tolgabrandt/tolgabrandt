@@ -2,16 +2,15 @@
 
 # Portfolio
 
-### 2022
+### React & Tailwind & Firebase
 
 [Socialcalories](https://socialcalories.netlify.app/)
 
-### 2021
+### Bootstrap 
 [Sonkod - Bir Web Ajansı](https://sonkod-2019.netlify.app)
  
 [Sonkod - Admin Paneli](https://sonkod-admin-2019.netlify.app)
 
-### 2020
 [Sonkod Sözlük v2](https://sozluk-2020.netlify.app)
 
 [SMS Onay Sistemi](https://sms-2019.netlify.app)
