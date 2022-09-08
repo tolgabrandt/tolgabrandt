@@ -1,10 +1,10 @@
-### Hi there 👋
-
-- 🌱 I’m currently learning  [Reactjs](https://reactjs.org/).
-- 😎 I’m a front-end developer and ui/ux designer.
-- 📫 How to reach me:   [email](mailto:tolgabrandt@gmail.com)
+📫:   [EMAIL](mailto:tolgabrandt@gmail.com)
 
 # Portfolio
+
+### 2022
+
+[Socialcalories](https://socialcalories.netlify.app/)
 
 ### 2021
 [Sonkod - Bir Web Ajansı](https://sonkod-2019.netlify.app)
@@ -14,7 +14,6 @@
 ### 2020
 [Sonkod Sözlük v2](https://sozluk-2020.netlify.app)
 
- ### 2019
 [SMS Onay Sistemi](https://sms-2019.netlify.app)
  
 [Psikolog](https://psikolog-2019.netlify.app)
