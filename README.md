@@ -4,7 +4,7 @@
 ##### UI & UX designs of the projects belong to me.
 
 ### 2022
-[sozluk-2022.netlify.app](https://sozlukverse.netlify.app/)
+[Sozlukverse](https://sozlukverse.netlify.app/)
 
 ### React & Tailwind & Firebase
 [Codenburg](https://codenburg.netlify.app/)
