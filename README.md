@@ -5,6 +5,8 @@
 
 ### 2022
 [Sozlukverse](https://sozlukverse.netlify.app/)
+[Heritage](https://heritage-project.netlify.app/src/index.html)
+
 
 ### React & Tailwind & Firebase
 [Codenburg](https://codenburg.netlify.app/)
